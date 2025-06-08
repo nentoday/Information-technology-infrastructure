@@ -1,4 +1,4 @@
-# lab45 - Dockerized Web App
+# lab 4, 5, 6 - Dockerized Web App
 
 This repository contains a simple web application that is automatically built into a Docker image and pushed to Docker Hub on every commit to the `main` branch.
 
